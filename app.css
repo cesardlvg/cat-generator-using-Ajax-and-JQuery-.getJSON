@@ -1,0 +1,36 @@
+#avatar{
+    display: block;
+    max-width:400px;
+    margin:0 auto;
+    height:200px;
+    border-radius:20%;
+  }
+  
+  .container{
+    width:600px;
+    margin:0 auto;
+    padding:40px;
+    background:#ddd;
+  }
+  
+  #getBtn {
+    padding:20px;
+    font-size:14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: tomato;
+    border:none;
+    color:white;
+    border-radius:10px;
+  }
+  
+  #getBtn:hover{
+    background: rgb(255, 40, 1);
+    cursor:pointer;
+  }
+  
+  button{
+     display: block;
+     max-width: 300px;
+     margin: auto;
+  }
